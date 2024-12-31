@@ -1,6 +1,6 @@
 - Description Idea :
 https://github.com/Galkurta
-- Generator Wallet 
+- Generator Wallet :
 https://github.com/Zlkcyber
 
 # **Wallet Generator + Extractor**  
